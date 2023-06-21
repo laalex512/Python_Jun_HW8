@@ -1,0 +1,19 @@
+"['Name', 'Parent', 'Type', 'Size', 'Inside']"
+main.py,.,file,835
+my_serialize_package,.,dir,14386,"['names_numbers_to_json.py', 'traversal_dir.py', 'users_by_access.py', '__init__.py', '__pycache__']"
+names_numbers_to_json.py,my_serialize_package,file,925
+traversal_dir.py,my_serialize_package,file,3244
+users_by_access.py,my_serialize_package,file,3210
+__init__.py,my_serialize_package,file,0
+__pycache__,my_serialize_package,dir,7007,"['names_numbers_to_json.cpython-310.pyc', 'traversal_dir.cpython-310.pyc', 'users_by_access.cpython-310.pyc', '__init__.cpython-310.pyc']"
+names_numbers_to_json.cpython-310.pyc,my_serialize_package\__pycache__,file,723
+traversal_dir.cpython-310.pyc,my_serialize_package\__pycache__,file,2712
+users_by_access.cpython-310.pyc,my_serialize_package\__pycache__,file,3373
+__init__.cpython-310.pyc,my_serialize_package\__pycache__,file,199
+result.json,.,file,77
+result.txt,.,file,90
+travel_result.csv,.,file,0
+travel_result.json,.,file,2453
+users.csv,.,file,63
+users.json,.,file,150
+__init__.py,.,file,0

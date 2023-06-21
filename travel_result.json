@@ -1,0 +1,96 @@
+{
+   "main.py": {
+      "parent": ".",
+      "type": "file",
+      "size": 835
+   },
+   "my_serialize_package": {
+      "parent": ".",
+      "type": "dir",
+      "size": 14386,
+      "inside": {
+         "names_numbers_to_json.py": {
+            "parent": "my_serialize_package",
+            "type": "file",
+            "size": 925
+         },
+         "traversal_dir.py": {
+            "parent": "my_serialize_package",
+            "type": "file",
+            "size": 3244
+         },
+         "users_by_access.py": {
+            "parent": "my_serialize_package",
+            "type": "file",
+            "size": 3210
+         },
+         "__init__.py": {
+            "parent": "my_serialize_package",
+            "type": "file",
+            "size": 0
+         },
+         "__pycache__": {
+            "parent": "my_serialize_package",
+            "type": "dir",
+            "size": 7007,
+            "inside": {
+               "names_numbers_to_json.cpython-310.pyc": {
+                  "parent": "my_serialize_package\\__pycache__",
+                  "type": "file",
+                  "size": 723
+               },
+               "traversal_dir.cpython-310.pyc": {
+                  "parent": "my_serialize_package\\__pycache__",
+                  "type": "file",
+                  "size": 2712
+               },
+               "users_by_access.cpython-310.pyc": {
+                  "parent": "my_serialize_package\\__pycache__",
+                  "type": "file",
+                  "size": 3373
+               },
+               "__init__.cpython-310.pyc": {
+                  "parent": "my_serialize_package\\__pycache__",
+                  "type": "file",
+                  "size": 199
+               }
+            }
+         }
+      }
+   },
+   "result.json": {
+      "parent": ".",
+      "type": "file",
+      "size": 77
+   },
+   "result.txt": {
+      "parent": ".",
+      "type": "file",
+      "size": 90
+   },
+   "travel_result.csv": {
+      "parent": ".",
+      "type": "file",
+      "size": 1055
+   },
+   "travel_result.json": {
+      "parent": ".",
+      "type": "file",
+      "size": 0
+   },
+   "users.csv": {
+      "parent": ".",
+      "type": "file",
+      "size": 63
+   },
+   "users.json": {
+      "parent": ".",
+      "type": "file",
+      "size": 150
+   },
+   "__init__.py": {
+      "parent": ".",
+      "type": "file",
+      "size": 0
+   }
+}
